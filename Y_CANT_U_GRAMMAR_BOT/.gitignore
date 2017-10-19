@@ -1,3 +1,6 @@
+# specific files to ignore:
+changelog.txt
+
 # filetypes to ignore:
 .pdf
 .xlsx

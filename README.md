@@ -1,0 +1,1 @@
+Reddit bot(s). Right now it's just the Y_CANT_U_GRAMMAR_BOT, which is really basic and annoying (it's been banned from several subs). Maybe I'll make it better later
