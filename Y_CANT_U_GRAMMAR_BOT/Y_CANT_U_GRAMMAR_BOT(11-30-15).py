@@ -74,7 +74,7 @@ start_time = time.time()
 
 user_agent = ("Obnoxious grammar-correcting script by /u/Physicswizard. Corrects people who use 'alot'.")
 r = praw.Reddit(user_agent=user_agent)
-r.login('Y_CANT_U_GRAMMAR_BOT', 'Fusion1!')
+r.login('Y_CANT_U_GRAMMAR_BOT', ## Insert password ##)
 
 
 #main function
